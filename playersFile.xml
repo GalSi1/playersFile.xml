@@ -1,0 +1,38 @@
+<players>
+  <player>
+    <name>LeBron James</name>
+    <number>23</number>
+  </player>
+  <player>
+    <name>Stephen Curry</name>
+    <number>30</number>
+  </player>
+  <player>
+    <name>Kevin Durant</name>
+    <number>35</number>
+  </player>
+  <player>
+    <name>James Harden</name>
+    <number>13</number>
+  </player>
+  <player>
+    <name>Anthony Davis</name>
+    <number>3</number>
+  </player>
+  <player>
+    <name>Joel Embiid</name>
+    <number>24</number>
+  </player>
+  <player>
+    <name>Nikola Jokic</name>
+    <number>15</number>
+  </player>
+  <player>
+    <name>Giannis Antetokounmpo</name>
+    <number>34</number>
+  </player>
+  <player>
+    <name>Luka Doncic</name>
+    <number>77</number>
+  </player>
+</players>
